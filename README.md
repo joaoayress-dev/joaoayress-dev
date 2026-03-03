@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou o João 👋
 
 <!--
 **joaoayress-dev/joaoayress-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## output
+## Game
 
 ![Snake animation](https://github.com/joaoayress-dev/joaoayress-dev/blob/output/github-snake.svg)
