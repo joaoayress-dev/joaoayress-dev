@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Game
-
 ![Snake animation](https://github.com/joaoayress-dev/joaoayress-dev/blob/output/github-snake.svg)
